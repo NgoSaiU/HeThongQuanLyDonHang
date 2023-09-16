@@ -1,0 +1,11 @@
+Nguyen Pham Thanh Hoang,Cao Bang,01234567891,Ho Van Linh,Lang Son,01234567892,30000,1,1
+Ngo Sai U,Soc Trang,01234567893,Nguyen Hung Phuong,Ha Tinh,01234567894,60000,4,2
+Nguyen Van A,Kien Giang,01234567821,Tran Thi B,Ca Mau,01234567842,20000,2,3
+Ngo Sai U,Soc Trang,01234562893,Le Thi Thu,Tra Vinh,01238567894,60000,3,4
+Nguyen Thi Anh Nhi,Dak Lak,01239562893,Ngo Sai U,Quang Tri,01238561894,40000,3,4
+Nguyen Van D,Kien Giang,01234567821,Tran Thi B,Ca Mau,01234567842,20000,2,1
+Nguyen Van C,Kien Giang,01234567821,Tran Thi B,Ca Mau,01234567842,20000,2,2
+Nguyen Thi Anh Thu,Dak Lak,01239562893,Ngo Sai U,Yen Bai,01238561894,40000,3,4
+Nguyen Van F,Kien Giang,01234567821,Tran Thi B,Ca Mau,01234567842,20000,2,1
+Nguyen Van B,Kien Giang,01234567821,Tran Thi B,Ca Mau,01234567842,35000,2,3
+Nguyen Van C,Kien Giang,01234567821,Tran Thi B,Ca Mau,01234567842,20000,2,4
